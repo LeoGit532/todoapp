@@ -1,6 +1,6 @@
 
 
-.custom-todo-app {
+.todo-app {
   max-width: 600px;
   margin: 20px auto;
   padding: 20px;
@@ -11,24 +11,24 @@
   text-align: center;
 }
 
-.custom-todo-app h1 {
+.todo-app h1 {
   color: #333;
 }
 
-.custom-todo-app form {
+.todo-app form {
   display: flex;
   flex-direction: column;
   margin-bottom: 20px;
 }
 
-.custom-todo-app input {
+.todo-app input {
   margin-bottom: 10px;
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.custom-todo-app button {
+.todo-app button {
   padding: 10px 15px;
   background-color: #4caf50;
   color: #fff;
@@ -37,12 +37,12 @@
   cursor: pointer;
 }
 
-.custom-todo-app ul {
+.todo-app ul {
   list-style: none;
   padding: 0;
 }
 
-.custom-todo-app li {
+.todo-app li {
   margin-bottom: 15px;
   padding: 15px;
   border: 1px solid #ddd;
@@ -50,7 +50,7 @@
   background-color: #fff;
 }
 
-.custom-todo-app button {
+.todo-app button {
   background-color: #e74c3c;
   color: #fff;
   border: none;
